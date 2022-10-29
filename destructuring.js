@@ -16,7 +16,7 @@ const company = {
         id : 24,
         email : 'ceo@return0.com'
     },
-    obejctive: {
+    objective: {
         service : 'Web Development',
         employee: 15,
         framework: {
@@ -25,11 +25,11 @@ const company = {
         }
     }
 }
-const service = company.obejctive.service;
+const service = company.objective.service;
 console.log(service);
 
 const { name, email} = company.ceo;
 console.log(`Ceo name is : ${name} and Email is: ${email}`);
 
-const { fName, version} = company.obejctive.framework;
+const { fName, version} = company.objective.framework;
 console.log(fName ,version);
