@@ -1,4 +1,4 @@
-const numbers = [234, 432, 435, 445, 543, 436];
+const numbers = [234, 432, 435, 445, 543, 436, 8767, 678, 5678];
 // const resultOld = [];
 
 // const sumIt = number => number*2;
