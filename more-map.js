@@ -7,7 +7,7 @@ const products = [
     {name: 'Earbuds', color: 'Black', size: 'Small', price: '1200'},
     {name: 'Metador Pen', color: 'transparent', size: 'regular', price: '10'},
     {name: 'Scale', color: 'White', size: 'Free', price: '20'}
-]
+];
 
 const productsNames = products.map(x => x.name);
 const productsPrices = products.map(x => x.price);
