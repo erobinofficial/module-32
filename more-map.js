@@ -15,3 +15,4 @@ console.log(productsNames);
 console.log(productsPrices);
 products.map(x => console.log(x.color));
 products.forEach(x => console.log(x.size));
+products.map(x => console.log(x.price));
