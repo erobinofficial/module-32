@@ -1,7 +1,7 @@
 const numbers = [23, 54, 12, 76, 34, 67, 15, 42];
 const getBigers = numbers.filter(x => x > 25);
 const getSmaller = numbers.filter(x => x < 25);
-// console.log(getBigers, getSmaller);
+console.log(getBigers, getSmaller);
 
 const products = [
     {name: 'Water pot', color: 'Grey', size: 'Medium', price: '200'},

@@ -12,3 +12,6 @@
 // const doMath = (x, y, z) => x * y * z;;
 // console.log(doMath(2, 5, 4));
 
+// const numbers = [23, 54, 12, 76, 34, 67, 15, 42];
+// const getEven = numbers.filter(x => x%2 == 0);
+// console.log(getEven);
