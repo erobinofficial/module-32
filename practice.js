@@ -15,3 +15,12 @@
 // const numbers = [23, 54, 12, 76, 34, 67, 15, 42];
 // const getEven = numbers.filter(x => x%2 == 0);
 // console.log(getEven);
+
+// const {x} = {x : 1};
+// console.log(x);
+
+// const [one, two, three] = [23, 54, 12, 76, 56];
+// console.log(three);
+
+// const doSum = (x, y, z = 7) => x + y + z;
+// console.log(doSum(3, 5));
